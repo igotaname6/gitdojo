@@ -9,7 +9,7 @@ def joke():
     print("tell joke:")
 print("cos")
 
-print(" kaka ")
+print(" ka ")
 
 def shout():
     print("shout")
