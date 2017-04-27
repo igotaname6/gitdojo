@@ -11,9 +11,6 @@ print("cos")
 
 print(" ka ")
 
-def shout():
-    print("shout")
-    print("changed")
 
 def hello():
     a + b = a
@@ -21,6 +18,11 @@ def hello():
 
 def funct():
     x + y = xy
+<<<<<<< Updated upstream
 
 def shout():
     print("Im shouting!!")
+=======
+def shout():
+    ads da
+>>>>>>> Stashed changes
