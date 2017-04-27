@@ -14,3 +14,6 @@ print(" kaka ")
 def shout():
     print("shout")
     print("changed")
+
+def hello():
+    a+b = a
