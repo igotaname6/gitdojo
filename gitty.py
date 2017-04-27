@@ -17,3 +17,6 @@ def shout():
 
 def hello():
     a+b = a
+
+def funct():
+    x + y = xy
