@@ -18,3 +18,6 @@ def shout():
 def hello():
     a + b = a
     a / b != b
+
+def funct():
+    x + y = xy
