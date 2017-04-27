@@ -16,4 +16,5 @@ def shout():
     print("changed")
 
 def hello():
-    a+b = a
+    a + b = a
+    a / b != b
