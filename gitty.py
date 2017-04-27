@@ -21,3 +21,6 @@ def hello():
 
 def funct():
     x + y = xy
+
+def shout():
+    print("Im shouting!!")
