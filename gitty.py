@@ -3,7 +3,7 @@ def adding(x, y):
     suma = x + y
     return suma / len(x)
 
-print("Hello, I'm Gittie")
+print("dsfiajkdflakkj")
 
 def joke():
     print("tell joke:")
